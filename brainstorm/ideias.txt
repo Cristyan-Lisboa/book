@@ -1,0 +1,77 @@
+#Brainstorm - LMI book
+	
+	# Tópicos
+   		* Como surgem LMIs na teoria de controle ?
+		* O que é o problema de regulação e o de seguimento (PMI) ?
+		* Sistemas Lineares em tempo contínuo vs discreto vs amostrado vs digital
+		* Observadores de estado
+   		* Sistemas não-lineares (método indireto vs direto - Taylor)
+		* Sistemas Tipo-Lur'e 
+		* Saturaçao
+		* Otimização (problemas convexos por que? O que são solvers, parsers)
+		* Ferramentas instrumentais
+			- Transformação de congruência
+			- Variáveis linearizantes
+			- Complemento de Schur
+			- S-procedure 
+			- Lema de Finsler
+			- Restrições de autovalores
+			- L 
+		* Assuntos avançados
+			- Controle Robusto (politópica, limitada em norma, diagonal)
+			- Sitemas com atraso
+			- Sistemas LPV
+			- Sistemas PWA
+			- Controle baseado em eventos, amostrado
+ 			- Controladores ressonantes e repetitivos
+			- Controle de modos deslizantes 
+			- Controle não-linear
+			- Controle adaptativo (redes neurais, algoritmos genéticos, Fuzzy)
+			- Controle preditivo
+
+'	# Características
+		* Feito em Latex modelo padrão editora SBAI ou livro controle linear de sistemas dinâmicos - J. C. Geromel
+		* Exercícios ao final de cada capítulo
+		* As respostas serão disponibilizadas github/research_gate (Aguirre)
+		* Bibliografia ao final de cada capítulo
+		* Comentar todo o código 
+		* Não passar de 300 páginas frente e verso tamanho livro do João/Bazanella
+		* Citar trabalhos do grupo	
+		* Utilizar vocabulário simples, sentenças breves e ir direto ao ponto.
+		* Em todas as figuras, usar WriteFig, assim como Latex nas matrizes.
+		* Usar funcoes no codigo
+		* Ao colocar código no texto, escrever explicar o mesmo
+		* Rechear de exemplos de aplicação em cada assunto
+		
+	# Literatura indispensável
+		* C.T. Chen
+		* Livro João, Bazanella
+		* G-R Duan. LMIs in Control Sytems
+		* Boyd
+		* K-Z Liu. Robust Control - Theory ans Applications
+		* Material Jeferson/Lucioano/João/Bazanella
+		
+	# Softwares
+		* Matlab
+		* Python
+		* Editor de Latex
+	
+	# Decisões futuras
+		* Após finalizado, quais os passos para publicação ? Qual é o custo ? Em quanto tempo fica pronto ? Para quem devo enviar ?
+		* Quem irá ajudar na escrita ou orientar o mesmo (no máximo 3):
+			- Jeferson  
+			- Luciano   
+			- Aurélio  
+			- João	    
+			- Bazanella 
+			- Castro
+			- Coutinho
+			- Palmeira
+			- Zardo
+		* Solicitar a parte do grupo (os que não fizerem parte) para ler/julgar passar o que pode ser melhorado.
+		* Os codigos serao feitos em Matlab ou Python ? Justifique.
+		* Talvez seja melhor escrever logo, porém publicar apenas quando concluir o restante dos estudos. Pensar sobre isso.
+		* COlocar um valor baixo do livro, para que ele possa ser adquirido por todos (no máximo R$ 40, pois + R$ 20 são do frete para todo Brasil)
+		* Existe relação entre: Séria de Taylor, Transformada de Furier do ponto de vista filosófico ?
+
+
